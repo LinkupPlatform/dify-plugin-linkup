@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Dify Plugin Package
-.difypkg
+*.difypkg

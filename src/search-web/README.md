@@ -60,6 +60,12 @@ Now, simply add the **search-web** tool to your agent and it is ready to be used
 
 ---
 
+### 📂 Source Code
+
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-000?logo=github&logoColor=white)](https://github.com/LinkupPlatform/dify-plugin-linkup)
+
+---
+
 ### 📬 Contact Us
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Linkup_platform)
