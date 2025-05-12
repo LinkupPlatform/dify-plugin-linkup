@@ -4,7 +4,7 @@
 ## search-web
 
 **Author:** [Linkup](https://linkup.so)  
-**Version:** 0.0.1
+**Version:** 0.0.2
 **Type:** tool
 
 ---
@@ -62,16 +62,16 @@ Now, simply add the **search-web** tool to your agent and it is ready to be used
 
 ### 📂 Source Code
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-000?logo=github&logoColor=white)](https://github.com/LinkupPlatform/dify-plugin-linkup)
+[![GitHub](/src/search-web/_assets/github.svg)](https://github.com/LinkupPlatform/dify-plugin-linkup)
 
 ---
 
 ### 📬 Contact Us
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Linkup_platform)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/9q9mCYJa86)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/linkup-platform/)
-[![Email](https://img.shields.io/badge/Email-contact@linkup.so-red?logo=gmail&logoColor=white)](mailto:contact@linkup.so)
+[![Twitter](/src/search-web/_assets/twitter.svg)](https://x.com/Linkup_platform)
+[![Discord](/src/search-web/_assets/discord.svg)](https://discord.com/invite/9q9mCYJa86)
+[![LinkedIn](/src/search-web/_assets/linkedin.svg)](https://www.linkedin.com/company/linkup-platform/)
+[![Email](/src/search-web/_assets/email.svg)](mailto:contact@linkup.so)
 
 ---
 
