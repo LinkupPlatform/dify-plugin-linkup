@@ -60,18 +60,16 @@ Now, simply add the **search-web** tool to your agent and it is ready to be used
 
 ---
 
-### 📂 Source Code
-
-[![GitHub](/src/search-web/_assets/github.svg)](https://github.com/LinkupPlatform/dify-plugin-linkup)
+### [📂 Source Code](https://github.com/LinkupPlatform/dify-plugin-linkup)
 
 ---
 
 ### 📬 Contact Us
 
-[![Twitter](/src/search-web/_assets/twitter.svg)](https://x.com/Linkup_platform)
-[![Discord](/src/search-web/_assets/discord.svg)](https://discord.com/invite/9q9mCYJa86)
-[![LinkedIn](/src/search-web/_assets/linkedin.svg)](https://www.linkedin.com/company/linkup-platform/)
-[![Email](/src/search-web/_assets/email.svg)](mailto:contact@linkup.so)
+- [Twitter](https://x.com/Linkup_platform)
+- [Discord](https://discord.com/invite/9q9mCYJa86)
+- [LinkedIn](https://www.linkedin.com/company/linkup-platform/)
+- [Email](mailto:contact@linkup.so)
 
 ---
 
