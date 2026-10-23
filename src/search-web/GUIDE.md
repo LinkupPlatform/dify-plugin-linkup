@@ -70,9 +70,11 @@ Now you can edit the `manifest.yaml` file to describe your Plugin, here is the b
 ### Install Dependencies
 
 - First of all, you need a Python 3.11+ environment, as our SDK requires that.
-- Then, install the dependencies:
+- Upgrade pip using the security release's hash-pinned wheel, then install the dependencies:
     ```bash
-    pip install -r requirements.txt
+    python -m pip install \
+      "pip @ https://files.pythonhosted.org/packages/3f/06/3e4420302363fbb71be3c7f35ce042f54bfca330e3e66b3a2e3c4cca579f/pip-26.2.2-py3-none-any.whl#sha256=fd7f4dfa8190e014013b9f08f3e973f4e4c26ffd179a204895533a7254813a70"
+    python -m pip install -r requirements.txt
     ```
 - If you want to add more dependencies, you can add them to the `requirements.txt` file, once you have set the runner to python in the `manifest.yaml` file, `requirements.txt` will be automatically generated and used for packaging and deployment.
 
