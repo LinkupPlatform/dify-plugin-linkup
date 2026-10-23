@@ -8,3 +8,8 @@ dependencies = [
     "dify-plugin>=0.2.1",
     "linkup-sdk>=0.2.4",
 ]
+
+[tool.uv]
+exclude-newer = "2 weeks" # Reduce risks of supply chain attacks
+exclude-newer-package = { certifi = "2026-10-21T00:00:00Z" } # HACK: temporary security exception; remove after the two-week cooldown
+required-version = ">=0.13.5,<0.14.0"
